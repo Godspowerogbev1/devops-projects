@@ -1,6 +1,6 @@
 # DevOps Projects
 
-## This comprise of projects done during my DevOps journey passing through python, bash down to lunux.
+## This comprise of projects done during my DevOps journey passing through python, bash down to linux.
 
 ## Requirements
 - Bash 5.0+
